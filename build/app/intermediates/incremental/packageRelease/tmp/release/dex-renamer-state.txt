@@ -1,0 +1,4 @@
+#Tue Mar 07 11:58:18 WEST 2023
+base.0=/home/linsen/StudioProjects/my_gov/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

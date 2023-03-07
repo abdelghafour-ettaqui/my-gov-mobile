@@ -1,0 +1,4 @@
+#Fri Mar 03 15:19:27 WEST 2023
+base.0=/home/linsen/StudioProjects/my_gov/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
